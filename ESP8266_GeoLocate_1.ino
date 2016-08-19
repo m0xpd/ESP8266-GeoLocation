@@ -15,7 +15,7 @@ m0xpd
 August2016
 
 For further information:
-http://m0xpd.blogspot.co.uk/
+http://m0xpd.blogspot.co.uk/2016/08/esp8266-geolocation.html
 =======================================================
 */
 
