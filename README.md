@@ -9,4 +9,4 @@ such as those offered by Google or Mozilla.
 
 It includes an explicit example of how to build the json string which is required to submit the WAP scan result to these services.
 
-For more information and description of applicartions, see m0xpd.blogspot.com
+For more information and description of applications, see m0xpd.blogspot.com
