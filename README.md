@@ -11,4 +11,5 @@ using GeoLocation APIs such as those offered by Google or Mozilla.
 
 It includes an explicit example of how to build the json string which is required to submit the WAP scan result to these services.
 
-For more information and description of applications, see http://m0xpd.blogspot.com/2016/08/esp8266-geolocation.html
+For more information and a description of my motivating application in amateur radio, 
+see http://m0xpd.blogspot.com/2016/08/esp8266-geolocation.html
